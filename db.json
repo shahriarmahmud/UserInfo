@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "info": [
+  "comments": [
     { "id": 1, "name": "Mr. Aslam", "email": "Aslam@gmail.com" },
     { "id": 2, "name": "Md. Abul Hamid", "email": "Hamid@gmail.com" },
     { "id": 3, "name": "Khandakar Ali", "email": "Khandakar@gmail.com" },
