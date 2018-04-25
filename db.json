@@ -4,9 +4,17 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "info": [
+    { "id": 1, "name": "Mr. Aslam", "email": "Aslam@gmail.com" },
+    { "id": 2, "name": "Md. Abul Hamid", "email": "Hamid@gmail.com" },
+    { "id": 3, "name": "Khandakar Ali", "email": "Khandakar@gmail.com" },
+    { "id": 4, "name": "Golam Morshed", "email": "Morshed@gmail.com" },
+    { "id": 5, "name": "Md. Asif Iqbal", "email": "Asif@gmail.com" },
+    { "id": 6, "name": "Abdul Aziz", "email": "Aziz@gmail.com" },
+    { "id": 7, "name": "Mir Fazal", "email": "Fazal@gmail.com" },
+    { "id": 8, "name": "Abul Hasnat", "email": "Hasnat@gmail.com" },
+    { "id": 9, "name": "Ahmed Iqbal", "email": "Iqbal@gmail.com" },
+    { "id": 10, "name": "Hasnat Rumi", "email": "Rumi@gmail.com" }
   ],
   "profile": {
     "name": "typicode"
