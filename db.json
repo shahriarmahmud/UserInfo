@@ -14,12 +14,7 @@
     { "id": 7, "name": "Mir Fazal", "email": "fazal@gmail.com" },
     { "id": 8, "name": "Abul Hasnat", "email": "hasnat@gmail.com" },
     { "id": 9, "name": "Ahmed Iqbal", "email": "iqbal@gmail.com" },
-    { "id": 10, "name": "Hasnat Rumi", "email": "rumi@gmail.com" },
-    { "id": 11, "name": "Md. Golam Rabbani", "email": "golam@gmail.com" },
-    { "id": 12, "name": "Md. Mamunur Rashid", "email": "mamunur@gmail.com" },
-    { "id": 13, "name": "Mehedi Hasan", "email": "mehedi@gmail.com" },
-    { "id": 14, "name": "Rezwane Sadik", "email": "rezwane@gmail.com" },
-    { "id": 15, "name": "Ahsan Al Zaki Khan", "email": "zaki@gmail.com" }
+    { "id": 10, "name": "Hasnat Rumi", "email": "rumi@gmail.com" }
   ],
   "profile": {
     "name": "typicode"
